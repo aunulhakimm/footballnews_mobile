@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794898384745",
+    "project_id": "footballnews-mobile",
+    "storage_bucket": "footballnews-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794898384745:android:168decfdb991ebb51fdff8",
+        "android_client_info": {
+          "package_name": "com.example.footballnews_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRhjRI1wJZS1lryvfb4sXKaOmZHy3Uyp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
